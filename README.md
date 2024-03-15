@@ -1,1 +1,3 @@
-# ds4pg-test-site
+# README
+
+This respository host all public aspects of my Data Science for Public Health course assignments.
